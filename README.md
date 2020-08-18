@@ -21,12 +21,12 @@ After solving a problem, you can view the solutions by other users and try to ha
 The problem set has been designed so that you can use it together with recent competitive programming books, listed [here](https://cses.fi/book/index.php). The books discuss techniques and ideas that are useful when solving the problems.
 
 ## Introductory Problems
-- [ ] [Weird Algorithm](https://cses.fi/problemset/task/1068)
-- [ ] [Missing Number](https://cses.fi/problemset/task/1083)
-- [ ] [Repetitions](https://cses.fi/problemset/task/1069)
-- [ ] [Increasing Array](https://cses.fi/problemset/task/1094)
-- [ ] [Permutations](https://cses.fi/problemset/task/1070)
-- [ ] [Number Spiral](https://cses.fi/problemset/task/1071)
+- [x] [Weird Algorithm](https://cses.fi/problemset/task/1068) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/01-weird-algorithm.py)_
+- [x] [Missing Number](https://cses.fi/problemset/task/1083) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/02-missing-number.py)_
+- [x] [Repetitions](https://cses.fi/problemset/task/1069) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/03-repetitions.py)_
+- [x] [Increasing Array](https://cses.fi/problemset/task/1094) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/04-increasing-array.py)_
+- [x] [Permutations](https://cses.fi/problemset/task/1070) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/05-permutations.py)_
+- [x] [Number Spiral](https://cses.fi/problemset/task/1071) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/06-number-spiral.py)_
 - [ ] [Two Knights](https://cses.fi/problemset/task/1072)
 - [ ] [Two Sets](https://cses.fi/problemset/task/1092)
 - [ ] [Bit Strings](https://cses.fi/problemset/task/1617)
@@ -39,7 +39,7 @@ The problem set has been designed so that you can use it together with recent co
 - [ ] [Grid Paths](https://cses.fi/problemset/task/1625)
 
 ## Sorting and Searching
-- [ ] [Distinct Numbers](https://cses.fi/problemset/task/1621)
+- [x] [Distinct Numbers](https://cses.fi/problemset/task/1621) _[[Solution]](https://github.com/hamza1886/cses/blob/master/02-sorting-and-searching/01-distinct-numbers.py)_
 - [ ] [Apartments](https://cses.fi/problemset/task/1084)
 - [ ] [Ferris Wheel](https://cses.fi/problemset/task/1090)
 - [ ] [Concert Tickets](https://cses.fi/problemset/task/1091)
