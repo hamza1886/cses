@@ -27,8 +27,8 @@ The problem set has been designed so that you can use it together with recent co
 - [x] [Increasing Array](https://cses.fi/problemset/task/1094) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/04-increasing-array.py)_
 - [x] [Permutations](https://cses.fi/problemset/task/1070) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/05-permutations.py)_
 - [x] [Number Spiral](https://cses.fi/problemset/task/1071) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/06-number-spiral.py)_
-- [ ] [Two Knights](https://cses.fi/problemset/task/1072)
-- [ ] [Two Sets](https://cses.fi/problemset/task/1092)
+- [x] [Two Knights](https://cses.fi/problemset/task/1072) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/07-two-knights.py)_
+- [x] [Two Sets](https://cses.fi/problemset/task/1092) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/08-two-sets.py)_
 - [ ] [Bit Strings](https://cses.fi/problemset/task/1617)
 - [ ] [Trailing Zeros](https://cses.fi/problemset/task/1618)
 - [ ] [Coin Piles](https://cses.fi/problemset/task/1754)
