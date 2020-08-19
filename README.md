@@ -29,8 +29,8 @@ The problem set has been designed so that you can use it together with recent co
 - [x] [Number Spiral](https://cses.fi/problemset/task/1071) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/06-number-spiral.py)_
 - [x] [Two Knights](https://cses.fi/problemset/task/1072) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/07-two-knights.py)_
 - [x] [Two Sets](https://cses.fi/problemset/task/1092) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/08-two-sets.py)_
-- [ ] [Bit Strings](https://cses.fi/problemset/task/1617)
-- [ ] [Trailing Zeros](https://cses.fi/problemset/task/1618)
+- [x] [Bit Strings](https://cses.fi/problemset/task/1617) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/09-bit-strings.py)_
+- [x] [Trailing Zeros](https://cses.fi/problemset/task/1618) _[[Solution]](https://github.com/hamza1886/cses/blob/master/01-introductory-problems/10-trailing-zeros.py)_
 - [ ] [Coin Piles](https://cses.fi/problemset/task/1754)
 - [ ] [Palindrome Reorder](https://cses.fi/problemset/task/1755)
 - [ ] [Creating Strings I](https://cses.fi/problemset/task/1622)
